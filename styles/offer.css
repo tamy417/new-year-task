@@ -1,0 +1,27 @@
+
+.merriweather-merri{
+  font-family: "Merriweather", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+.header{
+    background-image: url(../pictures/Banner\ Image\ -\ Copy.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 1320px;
+    width: 600px;
+    text-align: center;
+    color: #cdc9c9
+    
+}
+.header-content{
+  text-align: center;
+  margin: 70px 140px;
+  padding: 10px 70px; 
+}
+.header-h5{
+  font-weight: 100;
+}
